@@ -57,6 +57,9 @@ public class Main {
                     if (logFile.exists()) {
                         Desktop.getDesktop().open(logFile);
                     } else {
+                        File loggFile = new File(System.getProperty("user.dir") + "/LogMagazinee_help.txt");
+                        Desktop.getDesktop().open(loggFile);
+
                         JOptionPane.showMessageDialog(null, "Файл журнала не найден", "Ошибка", JOptionPane.ERROR_MESSAGE);
                     }
                 } catch (IOException ex) {

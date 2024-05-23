@@ -1,3 +1,2 @@
-01:32:26.316 [AWT-EventQueue-0] ERROR org.example.Main - Ошибка при импорте файла
-01:33:59.610 [AWT-EventQueue-0] ERROR org.example.Main - Ошибка при импорте файла
-01:38:17.279 [AWT-EventQueue-0] ERROR org.example.Main - Ошибка при импорте файла
+09:31:48.028 [AWT-EventQueue-0] ERROR org.example.Main - Ошибка при импорте файла
+09:33:36.294 [AWT-EventQueue-0] ERROR org.example.Main - Ошибка при импорте файла
